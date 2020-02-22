@@ -4,7 +4,7 @@ http://www.haimati.cn/#/
 
 ## git地址
 
-git@github.com:fudandan111/haimati.git
+git@github.com:fudandan111/haima.git
 
 ## 启动项目
 
